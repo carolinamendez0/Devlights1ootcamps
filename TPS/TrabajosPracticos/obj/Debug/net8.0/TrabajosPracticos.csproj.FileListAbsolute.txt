@@ -1,0 +1,14 @@
+C:\Users\Ambiente\Documents\CODIGO VISUAL\BOOTCAMP\TPS\TrabajosPracticos\bin\Debug\net8.0\TrabajosPracticos.exe
+C:\Users\Ambiente\Documents\CODIGO VISUAL\BOOTCAMP\TPS\TrabajosPracticos\bin\Debug\net8.0\TrabajosPracticos.deps.json
+C:\Users\Ambiente\Documents\CODIGO VISUAL\BOOTCAMP\TPS\TrabajosPracticos\bin\Debug\net8.0\TrabajosPracticos.runtimeconfig.json
+C:\Users\Ambiente\Documents\CODIGO VISUAL\BOOTCAMP\TPS\TrabajosPracticos\bin\Debug\net8.0\TrabajosPracticos.dll
+C:\Users\Ambiente\Documents\CODIGO VISUAL\BOOTCAMP\TPS\TrabajosPracticos\bin\Debug\net8.0\TrabajosPracticos.pdb
+C:\Users\Ambiente\Documents\CODIGO VISUAL\BOOTCAMP\TPS\TrabajosPracticos\obj\Debug\net8.0\TrabajosPracticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ambiente\Documents\CODIGO VISUAL\BOOTCAMP\TPS\TrabajosPracticos\obj\Debug\net8.0\TrabajosPracticos.AssemblyInfoInputs.cache
+C:\Users\Ambiente\Documents\CODIGO VISUAL\BOOTCAMP\TPS\TrabajosPracticos\obj\Debug\net8.0\TrabajosPracticos.AssemblyInfo.cs
+C:\Users\Ambiente\Documents\CODIGO VISUAL\BOOTCAMP\TPS\TrabajosPracticos\obj\Debug\net8.0\TrabajosPracticos.csproj.CoreCompileInputs.cache
+C:\Users\Ambiente\Documents\CODIGO VISUAL\BOOTCAMP\TPS\TrabajosPracticos\obj\Debug\net8.0\TrabajosPracticos.dll
+C:\Users\Ambiente\Documents\CODIGO VISUAL\BOOTCAMP\TPS\TrabajosPracticos\obj\Debug\net8.0\refint\TrabajosPracticos.dll
+C:\Users\Ambiente\Documents\CODIGO VISUAL\BOOTCAMP\TPS\TrabajosPracticos\obj\Debug\net8.0\TrabajosPracticos.pdb
+C:\Users\Ambiente\Documents\CODIGO VISUAL\BOOTCAMP\TPS\TrabajosPracticos\obj\Debug\net8.0\TrabajosPracticos.genruntimeconfig.cache
+C:\Users\Ambiente\Documents\CODIGO VISUAL\BOOTCAMP\TPS\TrabajosPracticos\obj\Debug\net8.0\ref\TrabajosPracticos.dll

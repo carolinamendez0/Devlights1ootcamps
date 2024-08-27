@@ -1,0 +1,14 @@
+C:\Users\Ambiente\Documents\CODIGO VISUAL\BOOTCAMP\TPS\TrabajoPracticoClases\bin\Debug\net8.0\TrabajoPracticoClasesMOD3.exe
+C:\Users\Ambiente\Documents\CODIGO VISUAL\BOOTCAMP\TPS\TrabajoPracticoClases\bin\Debug\net8.0\TrabajoPracticoClasesMOD3.deps.json
+C:\Users\Ambiente\Documents\CODIGO VISUAL\BOOTCAMP\TPS\TrabajoPracticoClases\bin\Debug\net8.0\TrabajoPracticoClasesMOD3.runtimeconfig.json
+C:\Users\Ambiente\Documents\CODIGO VISUAL\BOOTCAMP\TPS\TrabajoPracticoClases\bin\Debug\net8.0\TrabajoPracticoClasesMOD3.dll
+C:\Users\Ambiente\Documents\CODIGO VISUAL\BOOTCAMP\TPS\TrabajoPracticoClases\bin\Debug\net8.0\TrabajoPracticoClasesMOD3.pdb
+C:\Users\Ambiente\Documents\CODIGO VISUAL\BOOTCAMP\TPS\TrabajoPracticoClases\obj\Debug\net8.0\TrabajoPracticoClasesMOD3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ambiente\Documents\CODIGO VISUAL\BOOTCAMP\TPS\TrabajoPracticoClases\obj\Debug\net8.0\TrabajoPracticoClasesMOD3.AssemblyInfoInputs.cache
+C:\Users\Ambiente\Documents\CODIGO VISUAL\BOOTCAMP\TPS\TrabajoPracticoClases\obj\Debug\net8.0\TrabajoPracticoClasesMOD3.AssemblyInfo.cs
+C:\Users\Ambiente\Documents\CODIGO VISUAL\BOOTCAMP\TPS\TrabajoPracticoClases\obj\Debug\net8.0\TrabajoPracticoClasesMOD3.csproj.CoreCompileInputs.cache
+C:\Users\Ambiente\Documents\CODIGO VISUAL\BOOTCAMP\TPS\TrabajoPracticoClases\obj\Debug\net8.0\TrabajoPracticoClasesMOD3.dll
+C:\Users\Ambiente\Documents\CODIGO VISUAL\BOOTCAMP\TPS\TrabajoPracticoClases\obj\Debug\net8.0\refint\TrabajoPracticoClasesMOD3.dll
+C:\Users\Ambiente\Documents\CODIGO VISUAL\BOOTCAMP\TPS\TrabajoPracticoClases\obj\Debug\net8.0\TrabajoPracticoClasesMOD3.pdb
+C:\Users\Ambiente\Documents\CODIGO VISUAL\BOOTCAMP\TPS\TrabajoPracticoClases\obj\Debug\net8.0\TrabajoPracticoClasesMOD3.genruntimeconfig.cache
+C:\Users\Ambiente\Documents\CODIGO VISUAL\BOOTCAMP\TPS\TrabajoPracticoClases\obj\Debug\net8.0\ref\TrabajoPracticoClasesMOD3.dll

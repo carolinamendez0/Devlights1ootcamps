@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ambiente\\Documents\\CODIGO VISUAL\\BOOTCAMP\\TPS\\TrabajosPracticos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BC79DE-243D-4835-9C8A-4A45044ECAB4}|..\\TrabajoPracticoClases\\TrabajoPracticoClases.csproj|c:\\users\\ambiente\\documents\\codigo visual\\bootcamp\\tps\\trabajopracticoclases\\estacionmeteorologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BC79DE-243D-4835-9C8A-4A45044ECAB4}|..\\TrabajoPracticoClases\\TrabajoPracticoClases.csproj|c:\\users\\ambiente\\documents\\codigo visual\\bootcamp\\tps\\trabajopracticoclases\\registrotemperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BC79DE-243D-4835-9C8A-4A45044ECAB4}|..\\TrabajoPracticoClases\\TrabajoPracticoClases.csproj|c:\\users\\ambiente\\documents\\codigo visual\\bootcamp\\tps\\trabajopracticoclases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BC79DE-243D-4835-9C8A-4A45044ECAB4}|..\\TrabajoPracticoClases\\TrabajoPracticoClases.csproj|c:\\users\\ambiente\\documents\\codigo visual\\bootcamp\\tps\\trabajopracticoclases\\profesional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BC79DE-243D-4835-9C8A-4A45044ECAB4}|..\\TrabajoPracticoClases\\TrabajoPracticoClases.csproj|c:\\users\\ambiente\\documents\\codigo visual\\bootcamp\\tps\\trabajopracticoclases\\pasante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstacionMeteorologica.cs",
+              "DocumentMoniker": "C:\\Users\\Ambiente\\Documents\\CODIGO VISUAL\\BOOTCAMP\\TPS\\TrabajoPracticoClases\\EstacionMeteorologica.cs",
+              "RelativeDocumentMoniker": "..\\TrabajoPracticoClases\\EstacionMeteorologica.cs",
+              "ToolTip": "C:\\Users\\Ambiente\\Documents\\CODIGO VISUAL\\BOOTCAMP\\TPS\\TrabajoPracticoClases\\EstacionMeteorologica.cs",
+              "RelativeToolTip": "..\\TrabajoPracticoClases\\EstacionMeteorologica.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAwFsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T21:55:33.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistroTemperatura.cs",
+              "DocumentMoniker": "C:\\Users\\Ambiente\\Documents\\CODIGO VISUAL\\BOOTCAMP\\TPS\\TrabajoPracticoClases\\RegistroTemperatura.cs",
+              "RelativeDocumentMoniker": "..\\TrabajoPracticoClases\\RegistroTemperatura.cs",
+              "ToolTip": "C:\\Users\\Ambiente\\Documents\\CODIGO VISUAL\\BOOTCAMP\\TPS\\TrabajoPracticoClases\\RegistroTemperatura.cs",
+              "RelativeToolTip": "..\\TrabajoPracticoClases\\RegistroTemperatura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T21:53:48.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pasante.cs",
+              "DocumentMoniker": "C:\\Users\\Ambiente\\Documents\\CODIGO VISUAL\\BOOTCAMP\\TPS\\TrabajoPracticoClases\\Pasante.cs",
+              "RelativeDocumentMoniker": "..\\TrabajoPracticoClases\\Pasante.cs",
+              "ToolTip": "C:\\Users\\Ambiente\\Documents\\CODIGO VISUAL\\BOOTCAMP\\TPS\\TrabajoPracticoClases\\Pasante.cs",
+              "RelativeToolTip": "..\\TrabajoPracticoClases\\Pasante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T21:30:50.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Profesional.cs",
+              "DocumentMoniker": "C:\\Users\\Ambiente\\Documents\\CODIGO VISUAL\\BOOTCAMP\\TPS\\TrabajoPracticoClases\\Profesional.cs",
+              "RelativeDocumentMoniker": "..\\TrabajoPracticoClases\\Profesional.cs",
+              "ToolTip": "C:\\Users\\Ambiente\\Documents\\CODIGO VISUAL\\BOOTCAMP\\TPS\\TrabajoPracticoClases\\Profesional.cs",
+              "RelativeToolTip": "..\\TrabajoPracticoClases\\Profesional.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T21:22:03.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Ambiente\\Documents\\CODIGO VISUAL\\BOOTCAMP\\TPS\\TrabajoPracticoClases\\Persona.cs",
+              "RelativeDocumentMoniker": "..\\TrabajoPracticoClases\\Persona.cs",
+              "ToolTip": "C:\\Users\\Ambiente\\Documents\\CODIGO VISUAL\\BOOTCAMP\\TPS\\TrabajoPracticoClases\\Persona.cs",
+              "RelativeToolTip": "..\\TrabajoPracticoClases\\Persona.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T21:15:09.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
