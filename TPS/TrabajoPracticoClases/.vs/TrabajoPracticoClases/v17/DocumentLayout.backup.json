@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ambiente\\Documents\\CODIGO VISUAL\\GITMIO-BOOTCAMPS\\Devlights1ootcamps\\TPS\\TrabajoPracticoClases\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ambiente\\Documents\\CODIGO VISUAL\\GITMIO-BOOTCAMPS\\Devlights1ootcamps\\TPS\\TrabajoPracticoClases\\TrabajoPracticoClasesMOD3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrabajoPracticoClasesMOD3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrabajoPracticoClasesMOD3.csproj",
+              "DocumentMoniker": "C:\\Users\\Ambiente\\Documents\\CODIGO VISUAL\\GITMIO-BOOTCAMPS\\Devlights1ootcamps\\TPS\\TrabajoPracticoClases\\TrabajoPracticoClasesMOD3.csproj",
+              "RelativeDocumentMoniker": "TrabajoPracticoClasesMOD3.csproj",
+              "ToolTip": "C:\\Users\\Ambiente\\Documents\\CODIGO VISUAL\\GITMIO-BOOTCAMPS\\Devlights1ootcamps\\TPS\\TrabajoPracticoClases\\TrabajoPracticoClasesMOD3.csproj",
+              "RelativeToolTip": "TrabajoPracticoClasesMOD3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-27T21:23:00.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+<h1>Lista de Tareas</h1>
+
+<!-- Componente de formulario para agregar tareas -->
+<app-formulario-de-tarea (nuevaTarea)="agregarTarea($event)"></app-formulario-de-tarea>
+
+<!-- Lista de tareas -->
+<ul>
+  <li *ngFor="let tarea of tareas">
+    {{ tarea.titulo }} - {{ tarea.completada ? 'Completada' : 'Pendiente' }}
+    <button (click)="marcarComoCompletada(tarea)">Marcar como completada</button>
+  </li>
+</ul>
+
+<!-- Mensaje cuando no hay tareas -->
+<p *ngIf="tareas.length === 0">No hay tareas por mostrar.</p>

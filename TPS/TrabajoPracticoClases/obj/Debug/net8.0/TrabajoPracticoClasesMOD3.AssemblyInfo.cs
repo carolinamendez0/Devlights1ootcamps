@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrabajoPracticoClasesMOD3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad040d3989f57f045033b554ddb4a72a9656ddd1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+909f5a6715aa7346aeb13bc91ec667d03967eb49")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrabajoPracticoClasesMOD3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrabajoPracticoClasesMOD3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

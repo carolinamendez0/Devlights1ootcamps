@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ambiente\\Documents\\CODIGO VISUAL\\BOOTCAMP\\TPS\\TrabajoPracticoClases\\TrabajoPracticoClasesMOD3.csproj": {}
+    "C:\\Users\\Ambiente\\Documents\\CODIGO VISUAL\\GITMIO-BOOTCAMPS\\Devlights1ootcamps\\TPS\\TrabajoPracticoClases\\TrabajoPracticoClasesMOD3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ambiente\\Documents\\CODIGO VISUAL\\BOOTCAMP\\TPS\\TrabajoPracticoClases\\TrabajoPracticoClasesMOD3.csproj": {
+    "C:\\Users\\Ambiente\\Documents\\CODIGO VISUAL\\GITMIO-BOOTCAMPS\\Devlights1ootcamps\\TPS\\TrabajoPracticoClases\\TrabajoPracticoClasesMOD3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ambiente\\Documents\\CODIGO VISUAL\\BOOTCAMP\\TPS\\TrabajoPracticoClases\\TrabajoPracticoClasesMOD3.csproj",
+        "projectUniqueName": "C:\\Users\\Ambiente\\Documents\\CODIGO VISUAL\\GITMIO-BOOTCAMPS\\Devlights1ootcamps\\TPS\\TrabajoPracticoClases\\TrabajoPracticoClasesMOD3.csproj",
         "projectName": "TrabajoPracticoClasesMOD3",
-        "projectPath": "C:\\Users\\Ambiente\\Documents\\CODIGO VISUAL\\BOOTCAMP\\TPS\\TrabajoPracticoClases\\TrabajoPracticoClasesMOD3.csproj",
+        "projectPath": "C:\\Users\\Ambiente\\Documents\\CODIGO VISUAL\\GITMIO-BOOTCAMPS\\Devlights1ootcamps\\TPS\\TrabajoPracticoClases\\TrabajoPracticoClasesMOD3.csproj",
         "packagesPath": "C:\\Users\\Ambiente\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ambiente\\Documents\\CODIGO VISUAL\\BOOTCAMP\\TPS\\TrabajoPracticoClases\\obj\\",
+        "outputPath": "C:\\Users\\Ambiente\\Documents\\CODIGO VISUAL\\GITMIO-BOOTCAMPS\\Devlights1ootcamps\\TPS\\TrabajoPracticoClases\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ambiente\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ambiente\\Documents\\CODIGO VISUAL\\BOOTCAMP\\TPS\\TrabajosPracticos\\TrabajosPracticos.csproj",
+      "projectUniqueName": "C:\\Users\\Ambiente\\Documents\\CODIGO VISUAL\\GITMIO-BOOTCAMPS\\Devlights1ootcamps\\TPS\\TrabajosPracticos\\TrabajosPracticos.csproj",
       "projectName": "TrabajosPracticos",
-      "projectPath": "C:\\Users\\Ambiente\\Documents\\CODIGO VISUAL\\BOOTCAMP\\TPS\\TrabajosPracticos\\TrabajosPracticos.csproj",
+      "projectPath": "C:\\Users\\Ambiente\\Documents\\CODIGO VISUAL\\GITMIO-BOOTCAMPS\\Devlights1ootcamps\\TPS\\TrabajosPracticos\\TrabajosPracticos.csproj",
       "packagesPath": "C:\\Users\\Ambiente\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ambiente\\Documents\\CODIGO VISUAL\\BOOTCAMP\\TPS\\TrabajosPracticos\\obj\\",
+      "outputPath": "C:\\Users\\Ambiente\\Documents\\CODIGO VISUAL\\GITMIO-BOOTCAMPS\\Devlights1ootcamps\\TPS\\TrabajosPracticos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ambiente\\AppData\\Roaming\\NuGet\\NuGet.Config",
